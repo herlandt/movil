@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360327009987",
+    "project_id": "smart-condominium-app",
+    "storage_bucket": "smart-condominium-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360327009987:android:969a8a0995c3e69b3a3476",
+        "android_client_info": {
+          "package_name": "com.example.movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz6ACytTtZiPkjLwmJcyVKQPXM_15fvPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
